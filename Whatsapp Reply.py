@@ -18,8 +18,8 @@ time.sleep(60)  # Wait for the user to scan the QR code or complete authenticati
 
 # Define the group and direct chats where you want to reply
 global group_chats
-#group_chats = '24/25 NDT පරිකල්පනයෝ'
-group_chats = '20/21 NDT පරිගණකයෝ'
+
+group_chats = 'Your Whatsapp Group Name'
 
 # Function to find and reply to messages in a chat
 def reply_to_messages(chat_name):
